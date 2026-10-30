@@ -35,7 +35,7 @@ export default function HomeScreen() {
         <ThemedView style={styles.heroSection}>
           <AnimatedIcon />
           <ThemedText type="title" style={styles.title}>
-            Welcome to&nbsp;Expo
+            Hi, my name is Jeremy Nally, and I am a mobile developer
           </ThemedText>
         </ThemedView>
 
